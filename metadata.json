@@ -1,0 +1,6 @@
+{
+  "name": "DevMarket - Plataforma Freelance para Desarrolladores",
+  "description": "Plataforma de servicios freelance exclusiva para desarrolladores de software. Búsqueda y contratación de servicios y profesionales de desarrollo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
